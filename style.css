@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+canvas{
+    background: #061121;
+}
+
+body{
+    overflow: hidden;
+}
+
+
